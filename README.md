@@ -1,1 +1,1 @@
-# 2048java
+<p> I do not have anything to do with the original 2048 game. I just decided it would be an easy <i>"challenge"</i> for me to make. I know the concepts of the game are not too complex but I hope you enjoy my version, it tried to make it in as least lines I could.</p>
